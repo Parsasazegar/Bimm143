@@ -1,2 +1,6 @@
 # Bimm143
-This repo is for my UCSD bioinformatics class. 
+Bioinformatics lab class.
+
+Add changes from local computer.
+
+Add changes from remote.
